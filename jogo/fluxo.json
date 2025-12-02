@@ -1,0 +1,81 @@
+{
+    "introducao": {
+        "texto": "",
+        "opcoes": [
+            "1",
+            "2"
+        ]
+    },
+
+    "caminho1": {
+        "texto": "",
+        "opcoes": [
+            "A",
+            "B"
+        ]
+    },
+
+    "caminho2": {
+        "texto": "",
+        "opcoes": [
+            "A",
+            "B",
+            "C"
+        ]
+    },
+
+    "caminho1A": {
+        "texto": "",
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1B": {
+        "texto": "",
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2A": {
+        "texto": "",
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2B": {
+        "texto": "",
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2C": {
+        "texto": "",
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "final1": {
+        "texto": "Final 1"
+    },
+
+    "final2": {
+        "texto": "Final 2"
+    },
+
+    "final3": {
+        "texto": "Final 3"
+    },
+
+    "final4": {
+        "texto": "Final 4"
+    },
+
+    "final5": {
+        "texto": "Final 5"
+    }
+}

@@ -1,0 +1,264 @@
+/* Caso esteja no Firefox */
+@-moz-document url-prefix("") {
+    .titulo {
+        color: red;
+    }
+}
+
+/* Responsividade */
+
+@media (max-width: 700px) {
+    #caixa-introducao, #caixa-principal {
+        width: 65%;
+    }
+
+    #botao-comecar,
+    #botao-continuar,
+    #caixa-introducao #texto-inicial,
+    #caixa-principal #texto,
+    .opcao {
+        font-size: 0.8rem;
+    }
+
+    .titulo {
+        font-size: 7.5vw;
+    }
+
+    a {
+        font-size: 0.8rem;
+    }
+}
+
+@media (max-width: 500px) {
+    #caixa-introducao, #caixa-principal {
+        width: 75%;
+    }
+
+    #botao-comecar,
+    #botao-continuar,
+    #caixa-introducao #texto-inicial,
+    #caixa-principal #texto,
+    .opcao {
+        font-size: 0.7rem;
+    }
+
+    .titulo {
+        font-size: 10vw;
+    }
+
+    footer {
+        font-size: 3vw;
+    }
+
+    a {
+        font-size: 0.7rem;
+    }
+}
+
+@media (max-width: 350px) {
+    #caixa-introducao, #caixa-principal {
+        width: 100%;
+        border-left: none;
+        border-right: none;
+        border-radius: 0;
+    }
+
+    .titulo {
+        font-size: 12.5vw;
+    }
+
+    footer {
+        font-size: 4vw;
+    }
+}
+
+/* Estilização principal */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    margin: 0;
+    height: 100vh;
+    font-family: 'Comic Sans MS', cursive;
+    background-image: url("../imgs/tela-fundo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+header {
+    background-image: linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 1.00),
+        rgba(0, 0, 0, 0.75),
+        rgba(0, 0, 0, 0.50),
+        rgba(0, 0, 0, 0)
+    );
+
+    height: 15vh;
+}
+
+header h1 {
+    font-family: serif;
+    font-weight: bold;
+    font-size: 5vw;
+    color: transparent;
+    text-align: center;
+    margin: 20px 0 0 0;
+    line-height: 0.75;
+    user-select: none;
+
+    /* Propriedade que pode não funcionar no Firefox */
+    -webkit-text-stroke: 1px red;
+}
+
+header h1 span {
+    text-decoration: overline;
+    text-decoration-thickness: 1px;
+    position: relative;
+}
+
+header h1 span::before {
+    content: "";
+    background: red;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 12%;
+    height: 1px;
+}
+
+header h1 span::after {
+    content: "";
+    background: red;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 12%;
+    height: 1px;
+}
+
+main {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.caixa {
+    height: 80%;
+    width: 50%;
+    background-color: rgba(100, 0, 0, 0.8);
+    color: white;
+    border: 2px solid red;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.9);
+}
+
+#caixa-introducao {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#texto-inicial {
+    text-align: justify;
+    font-size: 0.9rem;
+    margin: 5% 10%;
+}
+
+#caixa-principal {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#texto {
+    text-align: justify;
+    font-size: 0.9rem;
+    margin: 0 10%;
+    white-space: pre-line;
+    margin-top: 10%;
+}
+
+#container {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+#caixa-opcoes {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.opcao {
+    width: 60%;
+}
+
+#caixa-botoes {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 5px;
+    user-select: none;
+}
+
+button {
+    background-color: orange;
+    color: black;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 4px 10px;
+    font-size: 0.9rem;
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+
+button:hover {
+    background-color: rgb(255, 185, 50);
+    transform: scale(1.05);
+    transition: all 100ms ease;
+}
+
+button:active {
+    transform: scale(0.95);
+    transition: all 50ms ease;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    color: white;
+    height: 5vh;
+}
+
+footer span {
+    font-family: Arial, sans-serif;
+}
+
+footer a {
+    color: orange;
+}

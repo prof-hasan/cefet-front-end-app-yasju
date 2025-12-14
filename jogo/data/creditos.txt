@@ -1,7 +1,0 @@
-Imagem de fundo:
-    link: https://www.artstation.com/artwork/N5R0kq
-    artista: Guadalupe Hermoso
-
-Música:
-    The Stranger Things Theme
-    Compositores: Kyle Dixon e Michael Stein

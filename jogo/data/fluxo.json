@@ -1,0 +1,715 @@
+{
+    "introducao-p1": {
+        "texto": [
+            "É noite, com algumas estrelas e algumas nuvens espalhadas pelo céu escuro.",
+            "A rua é ladeada por postes de luz, árvores e simples casas de madeira dos",
+            "dois lados. Além dos grilos e de um cachorro latindo ao longe, ouvimos passos",
+            "- passos ritmados - produzidos por uma silhueta alta e esguia. Quando ela passa",
+            "sob um poste, percebemos que se trata de um rapaz de cabelos na altura dos ombros,",
+            "roupas simples e uma mochila às costas."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p2": {
+        "texto": [
+            "Ele segue caminhando até parar diante de uma casinha de fachada encardida, telhas",
+            "desconjuntadas e vasos de planta ressecadas na pequena varanda. O rapaz franze",
+            "levemente as sobrancelhas ao olhar para a janela e notar que as luzes da cozinha estão",
+            "piscando. Suspira, já imaginando que precisará acrescentar mais um item à sua crescente",
+            "lista de consertos para o fim de semana."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p3": {
+        "texto": [
+            "Ele tira a chave do bolso, encaixa na fechadura e gira para destrancar a porta. O clique metálico",
+            "ressoa suave, seguido pelo habitual destravar do mecanismo. Ele empurra a porta com cuidado, e uma",
+            "faixa de luz amarelada da cozinha se espalha pelo corredor, iluminando parcialmente o interior da casa,",
+            "onde Joe, como todos os dias, estaria o esperando."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p4": {
+        "texto": [
+            "A porta se abre por completo. O silêncio lá dentro é pesado. A casa está parcialmente destruída.",
+            "A mesa de jantar está tombada no chão, com as pernas para o ar. As cadeiras foram arremessadas contra",
+            "a estante. Almofadas rasgadas espalham espuma pelo assoalho. Perto da cozinha, cacos de um prato quebrado",
+            "brilham misturados a manchas de sangue escuro e espesso."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p5": {
+        "texto": [
+            "O rastro de sangue não para ali. Ele segue pelo chão de madeira arranhado até a parede principal. Mas a parede",
+            "não existe mais. O papel de parede está rasgado, pendurado em tiras. No lugar do reboco, há uma membrana orgânica,",
+            "fina e translúcida, esticada como pele molhada. Ela pulsa devagar, emitindo um brilho vermelho doentio, febril.",
+            "Raízes grossas e escuras saem das bordas da membrana, agarrando-se à sala como veias podres. A cada pulsação, elas estalam."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p6": {
+        "texto": [
+            "Atrás da membrana, abafado, ouve-se o som de passos pesados correndo num chão molhado. E gritos.",
+            "\n\n— Me solta! Irmão!",
+            "\n\nÉ a voz de Joe. Distante, distorcida, como se viesse do fundo de uma piscina. A membrana na parede",
+            "se contrai. As raízes puxam as bordas, tentando fechar a passagem."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p7": {
+        "texto": [
+            "O rapaz corre para a cozinha. Abre a gaveta com violência. Pega três objetos: uma lanterna, um canivete e um",
+            "pano de prato limpo. Joga tudo na mochila. Ele volta para a sala. O cheiro que sai da parede é frio, de mofo e",
+            "carne velha. Ele respira fundo, ajusta a mochila e se joga contra a membrana. A superfície cede com um som úmido",
+            "e pegajoso, tragando o corpo dele para o outro lado. Ele cai de joelhos, coberto de gosma. O chão é macio demais.",
+            "Cede como carne podre misturada com lama. A textura é pegajosa. O som é um estalo abafado."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p8": {
+        "texto": [
+            "O ar é gelado. Cheira a ferrugem e decomposição. Cada respiração arranha a garganta. Ele olha ao redor. É o quintal",
+            "de casa, mas morto. As árvores estão secas, cobertas por lodo escuro. A cerca são apenas sombras tortas. Tudo é azul",
+            "escuro, cinza e preto. Partículas brancas, como poeira úmida, caem do céu e grudam na roupa. O chão pulsa. Cipós negros",
+            "cobrem tudo, vibrando com um som baixo. A cada passo, a gosma puxa a sola da bota."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p9": {
+        "texto": [
+            "Ele vê algo meio enterrado na lama. Puxa. É um tênis All Star preto, pequeno, com a ponta arranhada. O tênis do Joe.",
+            "Ele guarda na mochila com a mão trêmula. No chão, o mesmo rastro de sangue da casa continua aqui. Escuro, quase preto,",
+            "misturado à lama. Ele segue para a neblina densa à frente. O ar muda. Um estalo seco de galho quebrando. Depois, um som",
+            "grave e úmido, como um pulmão doente puxando ar. Ele se joga atrás de um tronco coberto de lodo e teias brancas gosmentas.",
+            "Segura a respiração."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p10": {
+        "texto": [
+            "A neblina se abre. A criatura aparece. Alta demais. Magra demais. Pele lisa e brilhante, como se estivesse molhada.",
+            "Braços longos com garras de lâmina. A cabeça não tem rosto. É um botão de flor carnoso e fechado, pulsando no ritmo da",
+            "respiração. Ela para. Vira a “cara” na direção do tronco. O monstro fareja o ar, sugando em vez de inspirar. Dá um passo.",
+            "O chão faz aquele som molhado. Outro passo."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p11": {
+        "texto": [
+            "O rapaz tenta recuar um único passo. O chão do Mundo Invertido não perdoa. A bota escorrega numa raiz negra e gosmenta.",
+            "O som ecoa como um tiro no silêncio morto. A criatura trava. A cabeça gira na direção do barulho com precisão mecânica.",
+            "Então vem o som. Um ruído agudo, estridente. Parece um aspirador ligado dentro de um balde d’água. Um som molhado que vibra",
+            "no peito. O “rosto” se abre. Pétalas de carne estalam e se afastam. O círculo interno cheio de dentes pulsa. O grito aumenta."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p12": {
+        "texto": [
+            "É um Demogorgon.\n\n",
+            "Ele corre. O monstro não hesita. Dispara atrás. Passos pesados, batendo na lama como botas gigantes.",
+            "O rapaz olha em volta, desesperado. Ele vê destroços espalhados pela clareira. Ossos, metal retorcido",
+            "brilhando sob os esporos brancos. Ele tem segundos. O bafo de amônia e carne podre do monstro já está chegando."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "introducao-p13": {
+        "texto": [
+            "Ele precisa de uma arma. AGORA."
+        ],
+
+        "opcoes": [
+            "Facão",
+            "Bastão de pregos",
+            "Lança-chamas"
+        ]
+    },
+
+    "caminho1-p1": {
+        "texto": [
+            "O rapaz agarra o primeiro objeto que reconhece entre os destroços: um facão pesado, grosso, do tipo usado em açougue.",
+            "A lâmina está manchada, com ferrugem nas bordas, mas o fio ainda corta. Ele não tem tempo para escolher algo melhor."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p2": {
+        "texto": [
+            "O Demogorgon rompe a neblina num avanço rápido demais, o corpo alto e molhado se inclinando para frente como um predador",
+            "que já decidiu o fim daquela caçada. Cada passo afunda no chão com um som úmido, quase respirado. A boca fechada pulsa, prestes",
+            "a abrir. O rapaz firma os pés na gosma, ergue o facão e espera o salto."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p3": {
+        "texto": [
+            "O bicho avança. O rapaz gira o corpo no limite do instinto e desce a lâmina com toda força, sentindo o impacto vibrar pelo",
+            "braço. O metal entra na carne pálida do ombro da criatura. Não desliza, rasga. A pele abre, e uma jorrada de sangue espesso,",
+            "quase preto, espirra quente no rosto dele. O líquido arde, queimando a pele como se tivesse alguma coisa ácida."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p4": {
+        "texto": [
+            "O Demogorgon recua meio passo, o corte pulsando, a gosma escura escorrendo pelos dedos longos. O urro que sai de dentro",
+            "dele não é som — é vibração. Um lamento grave, molhado, que reverbera no chão. Mas ele não cai. Ele não diminui o ritmo."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p5": {
+        "texto": [
+            "Antes que o rapaz consiga erguer o braço para o segundo golpe, o monstro reage. O braço longo chicoteia numa velocidade",
+            "animal, acertando o peito dele com força absurda. O tecido fino da roupa rasga no impacto, inútil contra o ataque.",
+            "Uma sensação quente e metálica explode nas costelas, algo cede lá dentro, e o ar foge dos pulmões num jato seco.",
+            "Ele cai de costas na lama nojenta, o cheiro de mofo e sangue misturado queimando a garganta."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p6": {
+        "texto": [
+            "O Demogorgon avança de novo. O ombro ferido pulsa, mas ele ignora completamente. A boca começa a abrir, pétalas de carne",
+            "se separando devagar, revelando o círculo interno escuro e cheio de dentes. O rapaz tenta se levantar, mas escorrega.",
+            "O sangue da criatura já está no cabo do facão, grosso, escorregadio, dificultando o controle."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p7": {
+        "texto": [
+            "Ele sabe — não tem escolha. Se quiser continuar respirando, vai ter que chegar mais perto ainda. Vai ter que estraçalhar",
+            "o bicho no limite do toque. O Demogorgon se inclina, preparando o bote. A garganta dele vibra com aquele ruído molhado e",
+            "irregular, um aviso de que só existe um final possível ali dentro: o mais rápido, o mais brutal. O rapaz respira fundo.",
+            "Aperta o facão com força. E encara o monstro."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p8": {
+        "texto": [
+            "Ele tenta se arrastar na lama, mas o corpo não obedece. As pernas escorregam, enterrando-se na gosma fria, e o som da",
+            "criatura se aproximando cobre tudo — passos afundando, respiração irregular, carne molhada se abrindo e fechando no ritmo",
+            "de um predador irritado. O Demogorgon avança sem hesitação. O golpe vem de cima, num arco largo. Não há tempo para erguer",
+            "o braço."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p9": {
+        "texto": [
+            "As garras atravessam a roupa e a carne sem encontrar resistência. Elas entram pela lateral do corpo, rompendo pele, músculo",
+            "e qualquer coisa que estivesse no caminho. O impacto empurra o ar para fora dos pulmões num ruído curto e seco. A sensação",
+            "é quente, desorientadora."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p10": {
+        "texto": [
+            "O sangue escorre rápido demais. Inunda o tronco, mistura-se com a lama pegajosa, transforma tudo em uma pasta escura e quente",
+            "que gruda na pele e na roupa rasgada. Ele tenta inspirar, mas o ar não vem. Só um engasgo molhado. O Demogorgon o mantém preso",
+            "no chão, impalado, sem esforço. A criatura se inclina sobre ele, e o calor daquela respiração podre toma o espaço. O cheiro é",
+            "tão forte que parece entrar pelo nariz e queimar a garganta, amônia, carne estragada."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho1-p11": {
+        "texto": [
+            "A cabeça do monstro se abre. As pétalas de carne se afastam num movimento orgânico, revelando o interior pulsante: camadas",
+            "de músculos úmidos, veias latejantes, e uma boca circular cheia de dentes pequenos, pontiagudos. A saliva grossa pinga na",
+            "testa dele. Cada gota arde. Ele tenta virar o rosto, mas o corpo já não responde. O mundo gira, borra."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p1": {
+        "texto": [
+            "O rapaz remexe os destroços com o pé e agarra o primeiro objeto que reconhece: um bastão de beisebol envelhecido, a",
+            "madeira rachada e cheia de lascas, com dezenas de pregos enferrujados atravessando a superfície. A textura áspera arranha",
+            "a palma da mão; o peso é bruto, desequilibrado, mas útil. Não é uma arma rápida, mas sim de impacto."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p2": {
+        "texto": [
+            "O Demogorgon já está correndo, o corpo magro e alto avançando como um lobo esquelético. Cada passo afunda no chão nojento,",
+            "espalhando gosma. O ar vibra com o ruído estridente da criatura. O rapaz não recua. Ele firma as botas na lama escorregadia,",
+            "roda o quadril e desce o bastão num arco oblíquo, mirando a lateral da cabeça da criatura no único instante em que o",
+            "monstro abre a guarda para o salto."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p3": {
+        "texto": [
+            "O impacto é feio. Nada elegante. Madeira e metal afundando em carne dura e elástica. Os pregos não deslizam: fincam.",
+            "Engancham. Rasgam. A cabeça do Demogorgon é jogada violentamente para o lado, e um jorro de sangue escuro espirra, espesso",
+            "e quente, com cheiro metálico e podre. A criatura solta um grito agudo que parece vibrar no solo."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p4": {
+        "texto": [
+            "Mas o bastão trava. Quando o rapaz tenta puxá-lo para outro golpe, a madeira não cede. Os pregos ficaram presos nas fibras",
+            "da carne borrachuda da criatura. O monstro reage por reflexo. O braço esguio chicoteia numa velocidade impossível, e três",
+            "garras atravessam a camiseta do rapaz como se fosse papel. Não é um golpe. É um rasgo."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p5": {
+        "texto": [
+            "Três cortes profundos se abrem no ombro dele, tão rápido que o cérebro demora um segundo para entender a dor. O sangue",
+            "brota quente, pulsado, escorrendo pelo braço, manchando a camiseta clara e pingando na lama fria, pingos vermelhos",
+            "desaparecendo na gosma escura. Ele grita entre os dentes, solta o bastão e cambaleia para trás."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p6": {
+        "texto": [
+            "A arma fica pendurada na lateral da cabeça do Demogorgon, balançando grotescamente enquanto a criatura sacode o corpo,",
+            "urrando e tentando arrancar a madeira presa em sua própria carne. É a brecha. Pequena. Única. Com o ombro latejando e o",
+            "sangue vazando entre os dedos, ele se vira e corre para o mato distorcido, saindo do quintal em direção à rua. O cheiro",
+            "forte do próprio sangue agora marca a trilha atrás dele, um rastro perigoso, que entrega a presença de vida, impossível",
+            "de esconder."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p7": {
+        "texto": [
+            "Mas ficar parado é morrer. E ele prefere correr. Ele alcança a rua deserta. O ombro esquerdo pulsa dor a cada batida do",
+            "coração. O sangue escorre quente e encharca o tecido rasgado da roupa, pingando no asfalto e deixando um rastro fresco",
+            "que se mistura à gosma escura do chão. O ar é tóxico. Ele tosse, sentindo gosto de metal e cinza na boca. A visão começa",
+            "a ficar turva nas bordas, o efeito da atmosfera venenosa começando a bater."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p8": {
+        "texto": [
+            "No meio da rua, jogada perto de um poste coberto de lodo, há uma bicicleta. Uma BMX antiga, enferrujada, coberta",
+            "por teias finas. Ele levanta a bicicleta com o braço bom. O metal é gelado. Ele monta e pedala. A corrente velha estala",
+            "e faz um nhec-nhec agudo e ritmado, o único som mecânico naquele mundo orgânico. Ele pedala rápido, fugindo da criatura",
+            "que ficou para trás."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p9": {
+        "texto": [
+            "O cenário muda conforme ele avança. As casas familiares se tornam carcaças vazias, cobertas por uma camada grossa de",
+            "raízes que parecem veias expostas. O céu não tem sol nem lua, apenas nuvens de tempestade em tons de cinza, cortadas por",
+            "raios vermelhos, que antecedem o ribombar de trovões. As partículas brancas flutuam no ar parado como neve radioativa,",
+            "grudando no suor e no sangue da pele dele. Tudo é frio. Tudo é podre."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p10": {
+        "texto": [
+            "Ele reencontra o rastro de sangue da criatura que levou o irmão, que brilha escuro no asfalto cinza, e o segue até que a",
+            "estrada termina. À frente, surge a entrada de uma floresta densa. Não há folhas, apenas galhos secos e retorcidos que",
+            "parecem garras, cobertos do topo à base por uma substância branca e pegajosa. O chão está tomado pelas raízes negras que",
+            "pulsam levemente. O rastro de Joe entra direto na mata fechada e escura."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p11": {
+        "texto": [
+            "O rapaz para a bicicleta e a larga no chão. Um som agudo e vibrante vem de cima. Ele olha para o céu. Silhuetas com asas",
+            "de couro rasgam as nuvens. Demobats. Eles voam em círculos, mas de repente mudam a direção. O cheiro do sangue fresco no",
+            "ombro do rapaz é um farol para eles. Um mergulha, seguido por outro."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p12": {
+        "texto": [
+            "O desespero toma conta. Ele corre para dentro da floresta, buscando a cobertura das árvores mortas. A luz vermelha do",
+            "céu é bloqueada pelas copas densas. Está escuro. Ele tem a lanterna no bolso lateral da mochila, mas o pânico o impede",
+            "de pensar. Ele não a liga. Ele corre no breu, guiado apenas pelo medo. O pé dele bate em algo rígido no chão. Ele tropeça",
+            "violentamente e cai de peito na terra úmida e fofa. O ar sai dos pulmões."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p13": {
+        "texto": [
+            "Ele tenta se levantar, mas o ambiente reage. O obstáculo não era uma raiz comum. Era um tentáculo da colmeia. Ao sentir o",
+            "impacto, a vinha grossa se remexe como uma cobra e enrola no tornozelo dele. Outros tentáculos surgem da terra ou descem das",
+            "árvores, prendendo seus pulsos e, tronco, cintura pernas. E então, o som das asas chega. Não é um som distante. É um turbilhão."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho2-p14": {
+        "texto": [
+            "O primeiro Demobat atinge as costas dele. Não é uma aterrissagem suave; é um impacto de garras e dentes. A cauda longa da",
+            "criatura se enrola no pescoço dele, apertando a traqueia. Ele abre a boca para gritar, mas não tem ar."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p1": {
+        "texto": [
+            "Ele ignora todo o resto no chão e agarra o que realmente importa: um tanque metálico pesado, amarrado a uma mangueira",
+            "grossa ligada a um bico de ignição. O couro das alças está velho, rachado, mas resiste. O cheiro do combustível é tão",
+            "forte que parece arranhar a garganta. Ele mal tem tempo de prender o tanque nas costas."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p2": {
+        "texto": [
+            "O Demogorgon surge da neblina correndo, um borrão alto, humanoide, pálido e gosmento, o corpo inclinado para a frente,",
+            "braços longos abertos para agarrar. A boca de flor pulsa, prestes a se abrir, e o som estridente — aquele aspirador preso",
+            "dentro de água cresce, preenchendo tudo. Três metros. Dois. Um. Ele aponta o bico e aperta o gatilho."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p3": {
+        "texto": [
+            "Por um segundo, só o som angustiante de gás escapando. Click. Nada. Click. E então... O jato de fogo explode, largo,",
+            "denso, quente o bastante para secar o ar ao redor. A chama azul e laranja se estende como uma língua viva, alcançando o",
+            "Demogorgon bem no centro da boca aberta."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p4": {
+        "texto": [
+            "A reação é instantânea. O monstro entra em pânico. A carne estala, bolhas surgem e estouram, pedaços escurecem. A",
+            "criatura recua aos gritos, um som horrendo e estridente de dor. E então o ambiente inteiro reage. Os cipós negros que",
+            "cobrem as árvores se contraem, todos ao mesmo tempo, como músculos recebendo um choque. As raízes no chão se retorcem e",
+            "recuam, fazendo um chiado baixo que parece um lamento vindo do próprio solo. O ar vibra, denso, com a dor compartilhada."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p5": {
+        "texto": [
+            "É o Mundo Invertido sentindo a queimadura. Um organismo gigante. Temporariamente neutralizado. O Demogorgon foge",
+            "cambaleando, a carne ainda fumegando, desaparecendo na neblina. O rapaz solta o gatilho. As chamas morrem aos poucos,",
+            "deixando o chão estéril e cinzento. Ele ajeita o tanque nas costas. Pesado, barulhento, fedendo a combustível velho."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p6": {
+        "texto": [
+            "Ele sai da clareira e corre para a rua. O cheiro de gasolina queimada na roupa ajuda a mascarar o ar podre. Ele não está",
+            "ferido, mas suado e a adrenalina faz as mãos tremerem. No meio da rua cinza, ele encontra uma bicicleta BMX caída, coberta",
+            "de teias. Ele a levanta. O metal é gelado."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p7": {
+        "texto": [
+            "Ele pedala. O nhec-nhec da corrente enferrujada é o único som mecânico no silêncio orgânico. O cenário muda. As casas",
+            "viram carcaças cobertas por veias negras. O céu pulsa, sem sol nem lua. As nuvens em diferentes tons de cinza, são cortadas",
+            "por raios vermelhos, que antecedem os sons estrondosos de trovões. Os esporos brancos continuam a cair, como fuligem",
+            "flutuando após um incêndio. Ele segue o rastro de Joe até a estrada acabar na entrada de uma floresta."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p8": {
+        "texto": [
+            "As árvores são gigantes, mortas, cobertas por teias brancas. O chão é um tapete de raízes negras que se movem devagar. Ele",
+            "larga a bicicleta. Um guincho agudo vem do céu. Demobats. Eles sentem a presença dele. O enxame circula as nuvens, preparando",
+            "o mergulho. O rapaz não corre para se esconder. Ele olha para o chão. Para as raízes que pulsam. Ele entendeu a lógica:",
+            "tudo aqui é uma coisa só."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p9": {
+        "texto": [
+            "Ele aponta o bico para um amontoado grosso de raízes na base de uma árvore. Aperta o gatilho. O fogo pega na hora. As",
+            "raízes se contorcem violentamente, estalando e sibilando. A reação é imediata. No céu, os morcegos guincham e se contorcem",
+            "no ar, como se o fogo estivesse queimando a pele deles, mesmo à distância. A dor da raiz é a dor do morcego, que também é",
+            "a dor do demogorgon."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p10": {
+        "texto": [
+            "O rapaz aponta para a frente. Para a mata fechada. Ele segura o gatilho, inundando a floresta de fogo. As teias brancas",
+            "pegam chama rápido, subindo pelos troncos secos. A barreira de raízes recua, abrindo caminho à força. O calor é",
+            "insuportável, mas necessário."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p11": {
+        "texto": [
+            "Os Demobats gritam, mas a fumaça preta e a dor compartilhada da colmeia os mantêm longe. Eles não conseguem descer no",
+            "inferno que ele criou. O rapaz avança. Ele caminha sobre as cinzas quentes e restos de vinhas carbonizadas. O caminho está",
+            "livre. A floresta termina em cinzas."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p12": {
+        "texto": [
+            "O fogo abriu o caminho até o fim da trilha. O rapaz para. O tanque de combustível nas costas está leve. Ele sacode o",
+            "equipamento. O barulho líquido lá dentro sumiu. Acabou. À frente, o caminho termina."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p13": {
+        "texto": [
+            "Ergue-se uma barreira colossal. Não é uma construção. Não é pedra, madeira, concreto ou metal. É completamente diferente",
+            "da membrana na parede da casa. Não tem aquela cor vermelha doentia, e tão pouco é translúcida ou penetravel. É um muro",
+            "sólido. Carne escura, densa e intransponível."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p14": {
+        "texto": [
+            "A superfície é uma massa compacta de tecido muscular, brilhando com umidade. Sobre a carne, milhares de bulbos inchados",
+            "pulsam desordenadamente, do tamanho de cabeças humanas. Veias grossas conectam esses bulbos, bombeando um fluido espesso.",
+            "O muro inteiro parece respirar. Um som molhado, pesado. O odor que emana dali é podre, mistura de cobre e doença."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p15": {
+        "texto": [
+            "O rapaz baixa os olhos para a base da parede. Há muito sangue ali. Sangue escuro, o sangue da criatura que Joe feriu. O",
+            "rastro termina numa poça misturada com a lama. E, no meio dessa poça, há um objeto meio enterrado. Ele se abaixa e puxa.",
+            "A gosma faz um som pegajoso ao soltar. É um tênis All Star preto. O pé direito. O par do que ele guardou na mochila."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p16": {
+        "texto": [
+            "Ele limpa um pouco da lama com a barra da camisa. O cadarço está amarrado do jeito errado, com nó duplo, exatamente como",
+            "Joe fazia, pois ele ainda não tem muita habilidade com os cadarços O rapaz aperta o tênis entre as mãos com força, até os",
+            "nós dos dedos ficarem brancos. Ele inspira, meio entrecortado, os olhos ardendo levemente e guarda o sapato na mochila,",
+            "junto ao outro e ao restante das coisas que já estavam ali."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "caminho3-p17": {
+        "texto": [
+            "Ele olha para o muro novamente. É alto demais para escalar, duro demais para cortar, largo demais para contornar. O rastro",
+            "de sangue da criatura e do irmão param ali, o que significa que, de algum jeito, eles passaram. Mas não há como ele passar."
+        ],
+
+        "opcoes": [
+            "Continuar..."
+        ]
+    },
+
+    "final-1": {
+        "texto": [
+            "O monstro desce. A “flor” se fecha com violência ao redor da cabeça dele, abafando tudo — som, luz, ar. A pressão é",
+            "imediata, esmagadora, e então a dor explode. Quente.\n\n",
+            "Depois disso, só existe escuro. E silêncio.\n\n",
+            "Fim de jogo."
+        ]
+    },
+
+    "final-2": {
+        "texto": [
+            "O resto do enxame desce. Dezenas de criaturas cobrem o corpo dele. Há sons de mordidas rápidas, tecido sendo rasgado e",
+            "ossos estalando. O canivete escorrega do bolso e cai na terra, inútil, ao lado da mão presa que já não se mexe.\n\n",
+            "Fim de jogo."
+        ]
+    },
+
+    "final-3": {
+        "texto": [
+            "Ele se recosta em uma rocha próxima, sem raízes negras ou tentáculos, mas não consegue descansar. Pois aqui, no Mundo",
+            "Invertido, baixar a guarda é morrer.\n\n",
+            "Fim de jogo. Por enquanto..."
+        ]
+    }
+}
